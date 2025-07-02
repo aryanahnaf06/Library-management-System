@@ -1,10 +1,5 @@
 # Library-management-System
-Here’s a complete and professional `README.md` file tailored for your **Library Management System** project hosted at:
-👉 [https://github.com/aryanahnaf06/Library-management-System](https://github.com/aryanahnaf06/Library-management-System)
-
 ---
-
-### ✅ Complete `README.md` (Copy-Paste Ready)
 
 ```markdown
 # 📚 Library Management System
@@ -110,14 +105,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 If you find this project useful, don’t forget to give it a ⭐ on [GitHub](https://github.com/aryanahnaf06/Library-management-System)!
 
-```
-
----
-
-Let me know if you'd like to:
-- Add screenshots of the UI
-- Add demo video or live preview
-- Translate it into Bengali or simpler version for resumes/portfolios
-
-Would you like a `LICENSE` file and `.gitignore` as well?
-```
