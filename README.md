@@ -1,9 +1,3 @@
-Absolutely! Here's a clean, **copy-paste-ready `README.md`** for your `Library-management-System` project. It **doesn't look AI-generated** and is written in a straightforward, developer-friendly tone.
-
-Just copy everything below and paste it into your `README.md` file:
-
----
-
 ````markdown
 # 📚 Library Management System
 
